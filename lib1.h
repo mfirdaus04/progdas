@@ -1,3 +1,3 @@
 #include "ThisIsMasterAndFeatureVersionLibrary.h"
 
-int lib1func1();
+int lib1func1TheCorrectOne();
