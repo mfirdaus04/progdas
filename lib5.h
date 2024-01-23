@@ -1,1 +1,1 @@
-void lib5MasterFunc1();
+void lib5MasterCopyFunc1();
